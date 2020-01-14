@@ -3,7 +3,6 @@ require 'pry'
 require 'coveralls'
 Coveralls.wear!
 
-require "active_model_data"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
